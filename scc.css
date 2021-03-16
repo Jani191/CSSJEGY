@@ -12,11 +12,15 @@
 
 
 }
-#egy{
+#egy{ position: relative;
+    left: 10%;
 
 
 }
 
-#kettő{
-    
+#kettő{ float: right;
+    position: relative;
+    top: 2cm;
+    right: 10%;
+
 }
